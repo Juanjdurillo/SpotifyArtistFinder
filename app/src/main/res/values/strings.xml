@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SpotifyArtistFinder</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity_preference_name">Preferences </string>
+
+    <string name="exampleQuery">e.g., Cold Play</string>
+    <string name="not_found">Artist not found</string>
+    <string name="title_activity_show_best_tracks">ShowBestTracks</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="set_location_menu">Search Location</string>
+    <string name="pref_location_key">search_location</string>
+    <string name="pref_location_label">Set Search Preference Code</string>
+    <string name="pref_location_default">US</string>
+</resources>
